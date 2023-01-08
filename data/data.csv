@@ -1,0 +1,53 @@
+﻿Codigo;Descripción;Unidad;Costo;Categoria;Proveedor;Estado;Fecha
+ACI-001;Alambre recocido cal 16;Kg;29,4;Acero y Metal;Proveedor M1;Michoacán;08/01/2023
+ACI-002;"Alambron 1/4""";Kg;25;Acero y Metal;Proveedor M1;Michoacán;08/01/2023
+ACI-003;"Clavo de 2"" - 2 1/2""";Kg;38,8;Acero y Metal;Proveedor M1;Michoacán;08/01/2023
+ACI-004;Acero de refuerzo (varilla) #3;Kg;20,6;Acero y Metal;Proveedor M1;Michoacán;08/01/2023
+ACI-005;Acero de refuerzo (varilla) #4;Kg;20,6;Acero y Metal;Proveedor M1;Michoacán;08/01/2023
+ACI-006;Acero de refuerzo (varilla) #5;Kg;20,6;Acero y Metal;Proveedor M1;Michoacán;08/01/2023
+ACI-007;Malla de acero electrosoldada de 6*6-10/10;M2;24,3;Acero y Metal;Proveedor M1;Michoacán;08/01/2023
+AGC-002;Mortero envasado Moctezuma;Ton;2862,1;Cementos y Pegazulejo;Proveedor M1;Michoacán;08/01/2023
+AGC-003;Cemento a granel CPC 30R Moctezuma;Ton;2500;Cementos y Pegazulejo;Proveedor M1;Michoacán;08/01/2023
+AGC-004;Cemento envasado tipo CPC-30 Moctezuma;Ton;3310,3;Cementos y Pegazulejo;Proveedor M1;Michoacán;08/01/2023
+AGC-005;Pegapiso gris Pegarey bulto de 20 kg;Ton;2724,1;Cementos y Pegazulejo;Proveedor M1;Michoacán;08/01/2023
+AGC-006;Pega azulejo Pegaduro bulto de 20 kg;Ton;4137,9;Cementos y Pegazulejo;Proveedor M1;Michoacán;08/01/2023
+MUR-001;Tabique de barro rojo recocido ;Millar;2758,6;Block y Ladrillo;Proveedor M1;Michoacán;08/01/2023
+MUR-002;Tabicon de concreto 6x14x26 cms;Millar;2801,7;Block y Ladrillo;Proveedor M1;Michoacán;08/01/2023
+MUR-003;Block 15x20x40 cms natural;Millar;6896,6;Block y Ladrillo;Proveedor M1;Michoacán;08/01/2023
+MAQ-001;Vibrador a gasolina Honda 5 HP chicote 4 mts;Pza;7758,6;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+MAQ-002;Revolvedora de 1 saco mca Joper motor Honda 8 HP;Pza;24137,9;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+MAQ-003;"Compactador de 69 kgs (pison ""baiarina"")";Pza;28239,7;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+MAQ-004;Camion volteo diesel Mercedes B. 7 m3.;Pza;1163793,1;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+MAQ-005;Retroexcavadora CAT 416;Pza;1293103,4;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+MAQ-008;Equipo topografico;Rta/Hra;375;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+MAQ-009;Tractor buldozer equipado con cuchilla frontal y riper mca KOMATSU D 85;Pza;3721383,8;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+MAQ-010;"Bomba autocebante de 2"" de 8 HP";Pza;6034,5;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+MAQ-011;Dobladora de varilla;Rta/Hra;8,5;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+MAQ-012;Cortadora de varilla;Rta/Hra;10,5;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+MAQ-013;Compactador de rodillos vib. Dynapac CC122 2.6t.;Pza;603448,3;Maquinaria y Equipo;Proveedor M1;Michoacán;08/01/2023
+ACI-001;Alambre recocido cal 16;Kg;32,3;Acero y Metal;Proveedor M2;Michoacán;08/01/2023
+ACI-002;"Alambron 1/4""";Kg;27,5;Acero y Metal;Proveedor M2;Michoacán;08/01/2023
+ACI-003;"Clavo de 2"" - 2 1/2""";Kg;42,7;Acero y Metal;Proveedor M2;Michoacán;08/01/2023
+ACI-004;Acero de refuerzo (varilla) #3;Kg;22,7;Acero y Metal;Proveedor M2;Michoacán;08/01/2023
+ACI-005;Acero de refuerzo (varilla) #4;Kg;22,7;Acero y Metal;Proveedor M2;Michoacán;08/01/2023
+ACI-006;Acero de refuerzo (varilla) #5;Kg;22,7;Acero y Metal;Proveedor M2;Michoacán;08/01/2023
+ACI-007;Malla de acero electrosoldada de 6*6-10/10;M2;26,7;Acero y Metal;Proveedor M2;Michoacán;08/01/2023
+AGC-002;Mortero envasado Moctezuma;Ton;3148,3;Cementos y Pegazulejo;Proveedor M2;Michoacán;08/01/2023
+AGC-003;Cemento a granel CPC 30R Moctezuma;Ton;2750;Cementos y Pegazulejo;Proveedor M2;Michoacán;08/01/2023
+AGC-004;Cemento envasado tipo CPC-30 Moctezuma;Ton;3641,4;Cementos y Pegazulejo;Proveedor M2;Michoacán;08/01/2023
+AGC-005;Pegapiso gris Pegarey bulto de 20 kg;Ton;2996,6;Cementos y Pegazulejo;Proveedor M2;Michoacán;08/01/2023
+AGC-006;Pega azulejo Pegaduro bulto de 20 kg;Ton;4551,7;Cementos y Pegazulejo;Proveedor M2;Michoacán;08/01/2023
+MUR-001;Tabique de barro rojo recocido ;Millar;3034,5;Block y Ladrillo;Proveedor M2;Michoacán;08/01/2023
+MUR-002;Tabicon de concreto 6x14x26 cms;Millar;3081,9;Block y Ladrillo;Proveedor M2;Michoacán;08/01/2023
+MUR-003;Block 15x20x40 cms natural;Millar;7586,2;Block y Ladrillo;Proveedor M2;Michoacán;08/01/2023
+MAQ-001;Vibrador a gasolina Honda 5 HP chicote 4 mts;Pza;8534,5;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
+MAQ-002;Revolvedora de 1 saco mca Joper motor Honda 8 HP;Pza;26551,7;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
+MAQ-003;"Compactador de 69 kgs (pison ""baiarina"")";Pza;31063,6;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
+MAQ-004;Camion volteo diesel Mercedes B. 7 m3.;Pza;1280172,4;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
+MAQ-005;Retroexcavadora CAT 416;Pza;1422413,8;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
+MAQ-008;Equipo topografico;Rta/Hra;412,5;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
+MAQ-009;Tractor buldozer equipado con cuchilla frontal y riper mca KOMATSU D 85;Pza;4093522,2;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
+MAQ-010;"Bomba autocebante de 2"" de 8 HP";Pza;6637,9;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
+MAQ-011;Dobladora de varilla;Rta/Hra;9,4;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
+MAQ-012;Cortadora de varilla;Rta/Hra;11,6;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
+MAQ-013;Compactador de rodillos vib. Dynapac CC122 2.6t.;Pza;663793,1;Maquinaria y Equipo;Proveedor M2;Michoacán;08/01/2023
