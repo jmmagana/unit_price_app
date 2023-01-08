@@ -1,1 +1,1 @@
-# unit_price_app
+# Unit prices web application
