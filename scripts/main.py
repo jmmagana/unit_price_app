@@ -25,7 +25,7 @@ root_dir_path = get_root_dir()
 def load_csv(filepath):
     df = pd.read_csv(filepath, sep=';')
     return df
-source_df = load_csv(root_dir_path+'\data\data.csv')
+source_df = load_csv(root_dir_path+'/data/data.csv')
 
 # Sidebar
 st.sidebar.header('Selección de datos')
