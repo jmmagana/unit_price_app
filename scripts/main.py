@@ -43,9 +43,6 @@ if LOGGED_IN == True:
     st.sidebar.header('Selección de datos')
 
     # Sidebar - State selection
-    # selected_year = st.sidebar.selectbox('Año', list(reversed(range(2020,2023))))
-
-    # Sidebar - State selection
     sorted_unique_state = sorted(source_df.Estado.unique())
     selected_state = st.sidebar.multiselect('Estado', sorted_unique_state, sorted_unique_state)
 
