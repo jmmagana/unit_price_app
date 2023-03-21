@@ -1,1 +1,2 @@
-web: streamlit run ./scripts/main.py
+echo PORT $PORT
+web: streamlit run --server.port $PORT ./scripts/main.py
