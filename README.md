@@ -6,4 +6,7 @@ Activate pipenv in local
 Heroku requires the following files for setup
 - Procfile
 - runtime.txt
-- requirements.txt
+- requirements.txt 
+
+Update requirements
+$ pipenv requirements > requirements.txt

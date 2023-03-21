@@ -62,6 +62,7 @@ streamlit-login-auth-ui = "*"
 argon2 = "*"
 argon2-cffi = "*"
 trycourier = "*"
+gunicorn = "*"
 
 [dev-packages]
 
